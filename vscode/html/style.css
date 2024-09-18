@@ -1,0 +1,15 @@
+#box{
+    color: #66545e;
+}
+body{
+    background-color: #eea990;
+}
+.Heading{
+    color: red;
+}
+button{
+    background-color: #66545e;
+    font-style: italic;
+    outline-style: groove;
+    
+}
